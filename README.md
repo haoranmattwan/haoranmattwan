@@ -22,7 +22,7 @@
 
 ### Summary
 
-I am a quantitative researcher and a Ph.D. candidate at Washington University in St. Louis (exp. May 2026), specializing in applying advanced computational and statistical models to understand complex human behavior. My expertise lies in **Bayesian hierarchical modeling**, **experimental design**, and building end-to-end **reproducible data analysis pipelines** in both the R and Python ecosystems.
+I am a behavioral scientist and a Ph.D. candidate at Washington University in St. Louis (exp. May 2026), specializing in applying advanced computational and statistical models to understand complex human behavior. My expertise lies in **Bayesian hierarchical modeling**, **experimental design**, and building end-to-end **reproducible data analysis pipelines** in both the R and Python ecosystems.
 
 ---
 
