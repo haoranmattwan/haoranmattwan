@@ -34,7 +34,7 @@ I am a behavioral scientist and a Ph.D. candidate at Washington University in St
 
 ---
 
-### Portfolio: Reproducible Analyses of Peer-Reviewed Research
+### Research Portfolio
 
 This portfolio showcases my commitment to reproducible science and technical versatility by providing end-to-end analyses for my peer-reviewed publications in both **R** and **Python**. Each project includes a complete replication of the original analysis, demonstrating proficiency across different modeling frameworks and libraries.
 
