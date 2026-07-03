@@ -1,51 +1,46 @@
-# Haoran (Matt) Wan | Quantitative Researcher
+# Haoran (Matt) Wan, Ph.D.
 
-<p align="left">
-  <a href="https://haoranwan.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23323330?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/matt-haoran-wan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?user=wOmVqukAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:haoran.w@wustl.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+**Assistant Professor of Behavioral Science**<br>
+Division of Social Sciences, Duke Kunshan University
 
----
+[Website](https://haoranwan.com/) · [Google Scholar](https://scholar.google.com/citations?user=wOmVqukAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3434-3146) · [OSF](https://osf.io/ptvar/) · [Email](mailto:haoran.wan@dukekunshan.edu.cn)
 
-### Summary
+## Research
 
-I am a behavioral scientist and a Ph.D. candidate at Washington University in St. Louis (exp. May 2026), specializing in applying advanced computational and statistical models to understand complex human behavior. My expertise lies in **Bayesian hierarchical modeling**, **experimental design**, and building end-to-end **reproducible data analysis pipelines** in both the R and Python ecosystems.
+I study how age and income shape decision-making across the adult lifespan. My research focuses on **delay and probability discounting**: how people value rewards that are delayed, uncertain, or both delayed and uncertain.
 
----
+I examine why these preferences differ across individuals and across adulthood, with particular attention to personality, cognitive ability, financial security, and financial literacy. This work connects judgment and decision-making, cognitive aging, and behavioral economics to clarify how people weigh time and uncertainty in consequential choices.
 
-### Core Competencies
+My research uses behavioral experiments, psychometrics, mathematical models of choice, and Bayesian and multilevel methods. I am committed to transparent, reproducible research and share analysis code and open materials whenever possible.
 
-* **Languages & Ecosystems**: R (`tidyverse`, `brms`, `cmdstanr`, `lme4`), Python (`pandas`, `numpy`, `pymc`, `statsmodels`, `scikit-learn`)
-* **Modeling & Inference**: Bayesian Hierarchical Modeling, Generalized Linear Models, Nonlinear Modeling, Causal Inference, Longitudinal Data Analysis, Multivariate Analysis
-* **Tools & Platforms**: Stan, Git/GitHub/GitLab, Stata
+## Current Research Directions
 
----
+- Age and socioeconomic differences in intertemporal and risky choice
+- Decisions involving outcomes that are simultaneously delayed and probabilistic
+- Financial and cognitive resources as moderators of decision-making across adulthood
+- Measurement and mathematical modeling of discounting
 
-### Research Portfolio
+## Selected Recent Publications
 
-This portfolio showcases my commitment to reproducible science and technical versatility by providing end-to-end analyses for my peer-reviewed publications in both **R** and **Python**. Each project includes a complete replication of the original analysis, demonstrating proficiency across different modeling frameworks and libraries.
+- Wan, H., Myerson, J., Green, L., Strube, M. J., & Hale, S. (2026). [Age, income, and the discounting of delayed and probabilistic rewards](https://doi.org/10.3389/fpsyg.2026.1765142). *Frontiers in Psychology, 17*, 1765142.
+- Wan, H., Myerson, J., Green, L., Strube, M. J., & Hale, S. (2025). [Age, income, and the discounting of delayed monetary losses](https://doi.org/10.1093/geronb/gbaf162). *The Journals of Gerontology: Series B, 80*(11), gbaf162. [Code](https://github.com/haoranmattwan/Age-Income-Loss-Discounting-2025) · [Data](https://osf.io/4ym2r)
+- Wan, H., Green, L., & Myerson, J. (2025). [Brief assessments of delay discounting: Two-amount monetary choice and delayed losses questionnaires](https://doi.org/10.1007/s40732-025-00665-w). *The Psychological Record, 75*, 591–597. [Code](https://github.com/haoranmattwan/Brief-Delay-Discounting-2025) · [Data](https://osf.io/zy65s)
+- Wan, H., Myerson, J., Green, L., Strube, M. J., & Hale, S. (2024). [Age-related differences in delay discounting: Income matters](https://doi.org/10.1037/pag0000818). *Psychology and Aging, 39*(6), 632–643. [Code](https://github.com/haoranmattwan/age-income-discounting-2024) · [Data](https://osf.io/um68t)
 
-| Project Title & Publication | Description & Key Methods | Tech Stack | Repository |
-|:---|:---|:---|:---|
-| **Brief assessments of delay discounting: Two‐amount Monetary Choice and Delayed Losses Questionnaires** <br/> *The Psychological Record (2025)* | Validates 18-item brief versions of the MCQ and DLQ using logistic growth models, reliability metrics, and mixed-effects regressions to ensure psychometric equivalence. | `R (glmmTMB, minpack.lm)` `Python (statsmodels, scipy)` | [View Project](https://github.com/haoranmattwan/Brief-Delay-Discounting-2025) [View Paper](https://doi.org/10.1007/s40732-025-00665-w) |
-| **Age, income, and the discounting of delayed monetary losses** <br/> *Journals of Gerontology: Series B (2025)* | Models how demographic factors interact to influence financial risk tolerance using Bayesian hierarchical beta regressions. | `R (brms)` `Python (pymc)` | [View Project](https://github.com/haoranmattwan/Age-Income-Loss-Discounting-2025) [View Paper](https://doi.org/10.1093/geronb/gbaf162) |
-| **Discounting of probabilistic food reinforcement by pigeons** <br/> *Journal of the Experimental Analysis of Behavior (2025)* | Fits custom Bayesian nonlinear multilevel models (hyperboloid function) with a beta likelihood to examine how pigeons discount probabilistic rewards. | `R (brms)` `Python (pymc)` | [View Project](https://github.com/haoranmattwan/Pigeon-Probability-Discounting-2025) [View Paper](https://doi.org/10.1002/jeab.70042) |
-| **Delayed monetary losses: Do different procedures assess the same construct?** <br/> *Behavioural Processes (2024)* | Compares two behavioral measures using frequentist methods, including beta regression, nonlinear modeling, and hypothesis testing with `glht`. | `R (betareg)` `Python (statsmodels)` | [View Project](https://github.com/haoranmattwan/discounting-delayed-losses-procedure-comparison-2024) [View Paper](https://doi.org/10.1016/j.beproc.2024.105101) |
-| **Age-related differences in delay discounting: Income matters** <br/> *Psychology and Aging (2024)* | Implements a series of Bayesian multilevel models to test a focused "buffering hypothesis" regarding age and income. | `R (brms)` `Python (pymc)` | [View Project](https://github.com/haoranmattwan/age-income-discounting-2024) [View Paper](https://psycnet.apa.org/doi/10.1037/pag0000818) |
-| **Social familiarity and reinforcement value in rats** <br/> *Frontiers in Psychology (2023)* | Fits a specialized nonlinear behavioral-economic demand model (ZBEn) using both frequentist (`lmfit`) and Bayesian (`pymc`) hierarchical approaches. | `R (minpack.lm)` `Python (lmfit, pymc)` | [View Project](https://github.com/haoranmattwan/demand-analysis-social-familiarity-2023) [View Paper](https://doi.org/10.3389/fpsyg.2023.1158365) |
-| **Individual differences in degree of discounting** <br/> *Behavioural Processes (2023)* | A psychometric validation study using GLMMs (`glmmTMB`) and correlation analyses to assess the convergent validity of two measurement tools. | `R (glmmTMB)` `Python (statsmodels)` | [View Project](https://github.com/haoranmattwan/discounting-delayed-gains-procedure-comparison-2023) [View Paper](https://doi.org/10.1016/j.beproc.2023.104864) |
-| **A behavioral-economic analysis of demand and preference in rats** <br/> *Learning and Motivation (2022)* | Quantifies own-price and cross-price elasticity by fitting ZBEn and exponential demand models to assess reinforcer substitutability. | `R (minpack.lm)` `Python (lmfit)` | [View Project](https://github.com/haoranmattwan/behavioral-economic-demand-analysis-2022) [View Paper](https://doi.org/10.1016/j.lmot.2021.101780) |
-| **Failure to find altruistic food sharing in rats** <br/> *Frontiers in Psychology (2021)* | Implements custom hierarchical binomial and negative binomial regression models in Stan to test claims of altruism across multiple experimental conditions. | `R (cmdstanr)` `Python (cmdstanpy)` | [View Project](https://github.com/haoranmattwan/altruistic-behavior-rats-2021) [View Paper](https://doi.org/10.3389/fpsyg.2021.696025) |
+For a complete publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=wOmVqukAAAAJ&hl=en) or [website](https://haoranwan.com/).
+
+## Open Research Repositories
+
+These repositories contain reproducible analyses for peer-reviewed research. Each project documents the research question, analytic workflow, and links to the associated publication and open materials when available.
+
+| Study | Focus | Resources |
+|:---|:---|:---|
+| **Brief assessments of delay discounting** (*The Psychological Record*, 2025) | Psychometric evaluation of brief monetary choice and delayed-loss questionnaires | [Code](https://github.com/haoranmattwan/Brief-Delay-Discounting-2025) · [Paper](https://doi.org/10.1007/s40732-025-00665-w) · [Data](https://osf.io/zy65s) |
+| **Age, income, and delayed monetary losses** (*The Journals of Gerontology: Series B*, 2025) | How age and income jointly relate to the discounting of delayed losses | [Code](https://github.com/haoranmattwan/Age-Income-Loss-Discounting-2025) · [Paper](https://doi.org/10.1093/geronb/gbaf162) · [Data](https://osf.io/4ym2r) |
+| **Probability discounting in pigeons** (*Journal of the Experimental Analysis of Behavior*, 2025) | Mathematical modeling of probabilistic food reinforcement | [Code](https://github.com/haoranmattwan/Pigeon-Probability-Discounting-2025) · [Paper](https://doi.org/10.1002/jeab.70042) · [Data](https://osf.io/scwg3) |
+| **Measurement of delayed-loss discounting** (*Behavioural Processes*, 2024) | Convergence across procedures and measures of delayed-loss discounting | [Code](https://github.com/haoranmattwan/discounting-delayed-losses-procedure-comparison-2024) · [Paper](https://doi.org/10.1016/j.beproc.2024.105101) · [Data](https://osf.io/emb2q) |
+| **Age, income, and delay discounting** (*Psychology and Aging*, 2024) | Income as a moderator of age differences in delay discounting | [Code](https://github.com/haoranmattwan/age-income-discounting-2024) · [Paper](https://doi.org/10.1037/pag0000818) · [Data](https://osf.io/um68t) |
+| **Individual differences in delay discounting** (*Behavioural Processes*, 2023) | Convergence across procedures and measures of delayed-reward discounting | [Code](https://github.com/haoranmattwan/discounting-delayed-gains-procedure-comparison-2023) · [Paper](https://doi.org/10.1016/j.beproc.2023.104864) |
+| **Social familiarity and reinforcement value in rats** (*Frontiers in Psychology*, 2023) | Behavioral-economic analysis of demand for social interaction | [Code](https://github.com/haoranmattwan/demand-analysis-social-familiarity-2023) · [Paper](https://doi.org/10.3389/fpsyg.2023.1158365) |
+| **Demand and preference for social and food reinforcement in rats** (*Learning and Motivation*, 2022) | Own-price and cross-price demand for social and food reinforcement | [Code](https://github.com/haoranmattwan/behavioral-economic-demand-analysis-2022) · [Paper](https://doi.org/10.1016/j.lmot.2021.101780) |
+| **Altruistic food sharing in rats** (*Frontiers in Psychology*, 2021) | Experimental tests of altruistic food sharing | [Code](https://github.com/haoranmattwan/altruistic-behavior-rats-2021) · [Paper](https://doi.org/10.3389/fpsyg.2021.696025) |
